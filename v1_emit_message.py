@@ -4,7 +4,7 @@
     Date: May 14,2024
 """
 
-# add imports at the beginning of the file
+# add imports at the beginning of the file 
 import pika
 
 # create a blocking connection to the RabbitMQ server
