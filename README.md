@@ -166,3 +166,4 @@ Each of the version 2 programs include an error as well.
 
 ![Exploring the local virtual environment folder](./images/exploring_dot_venv.PNG)
 ![alt text](image.png)
+![alt text](image-1.png)

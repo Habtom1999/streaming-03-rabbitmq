@@ -1,6 +1,8 @@
 """
 
 Message listener 
+Name : Habtom Woldu
+Date : May 14,2024
 
 Description:
 This script continuously listens for messages on a named queue.
@@ -10,8 +12,9 @@ This terminal must be open and dedicated to this process.
 Remember:
 - Use Control + C to close a terminal and end the listening process.
 - Use the up arrow to recall the last command executed in the terminal.
+- Since this proces runs continuously, if we want to emit more messages, 
+  we'll need to open a new terminal window. 
 """
-
 
 # Import necessary modules from the Python Standard Library
 import sys

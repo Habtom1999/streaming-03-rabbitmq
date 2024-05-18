@@ -1,4 +1,5 @@
 """
+This program sends a message to a queue on the RabbitMQ server
 Name: Habtom Woldu
 Date: May 14,2024
 
